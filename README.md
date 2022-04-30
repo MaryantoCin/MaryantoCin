@@ -170,26 +170,28 @@
     />
   </a>
 </p>
+<details>
+  <summary align="center"><b> Show GitHub Stats </b></summary>
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=maryantocin&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&langs_count=4"
+      alt="maryantocin"
+    />
+  </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=maryantocin&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&langs_count=4"
-    alt="maryantocin"
-  />
-</p>
+  <p align="center">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=maryantocin&show_icons=true&locale=en&theme=github_dark&hide_border=true"
+      alt="maryantocin"
+    />
+  </p>
 
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=maryantocin&show_icons=true&locale=en&theme=github_dark&hide_border=true"
-    alt="maryantocin"
-  />
-</p>
-
-<p align="center">
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=maryantocin&theme=holi-theme&hide_border=true"
-    alt="maryantocin"
-  />
-</p>
+  <p align="center">
+    <img
+      align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=maryantocin&theme=holi-theme&hide_border=true"
+      alt="maryantocin"
+    />
+  </p>
+</details> 
