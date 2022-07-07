@@ -184,7 +184,7 @@
   <p align="center">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api?username=maryantocin&show_icons=true&locale=en&theme=github_dark&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=maryantocinn&show_icons=true&locale=en&theme=github_dark&hide_border=true"
       alt="maryantocin"
     />
   </p>
@@ -192,7 +192,7 @@
   <p align="center">
     <img
       align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=maryantocin&theme=holi-theme&hide_border=true"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=maryantocinn&theme=holi-theme&hide_border=true"
       alt="maryantocin"
     />
   </p>
