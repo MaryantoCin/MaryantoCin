@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maryanto</h1>
 <h3 align="center">
-  A motivated student completing Computer Science degree. Experienced in Agile
-  and Scrum environments. Supports project coordination and programming needs.
+  Hello! I'm Maryanto, currently pursuing a Master's degree while working full-time as a backend software engineer. Agile and Scrum environments are my comfort zone, where I thrive in coordinating projects and tackling programming challenges. My journey involves crafting and optimizing web apps, utilizing my passion for innovation and seamless user experiences.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
