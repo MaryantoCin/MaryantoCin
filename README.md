@@ -177,7 +177,7 @@
     />
   </a>
 </p>
-<details>
+<details style="text-align: center;">
   <summary align="center"><b> Show GitHub Stats </b></summary>
 
   <p align="center">
