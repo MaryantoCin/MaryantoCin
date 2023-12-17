@@ -195,9 +195,7 @@
       alt="maryantocin"
     />
   </p>
-
-  <p align="center">
-    ![](https://komarev.com/ghpvc/?username=maryantocinn&style=for-the-badge)
-  </p>
+  
+  ![](https://komarev.com/ghpvc/?username=maryantocinn&style=for-the-badge)
   
 </details>
