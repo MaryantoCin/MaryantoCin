@@ -4,6 +4,8 @@
 </h3>
 
 <h3 align="left">Connect with me:</h3>
+  
+![](https://komarev.com/ghpvc/?username=maryantocinn&style=for-the-badge)
 <p align="left">
   <a href="https://gitlab.com/maryantocinn" target="blank"
     ><img
@@ -177,7 +179,7 @@
     />
   </a>
 </p>
-<details style="text-align: center;">
+<details>
   <summary align="center"><b> Show GitHub Stats </b></summary>
 
   <p align="center">
@@ -195,7 +197,5 @@
       alt="maryantocin"
     />
   </p>
-  
-  ![](https://komarev.com/ghpvc/?username=maryantocinn&style=for-the-badge)
   
 </details>
