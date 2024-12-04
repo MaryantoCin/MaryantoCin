@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maryanto</h1>
 <h3 align="center">
-  Hello! I'm Maryanto, currently pursuing a Master's degree while working full-time as a backend software engineer. Agile and Scrum environments are my comfort zone, where I thrive in coordinating projects and tackling programming challenges. My journey involves crafting and optimizing web apps, utilizing my passion for innovation and seamless user experiences.
+  Hello! I'm Maryanto, a recent Master's degree graduate and full-time backend software engineer. I thrive in Agile and Scrum environments, excelling in coordinating projects and solving programming challenges. My journey includes crafting and optimizing web applications, driven by my passion for innovation and creating seamless user experiences.
 </h3>
 
 ![](https://komarev.com/ghpvc/?username=maryantocinn&style=for-the-badge)
